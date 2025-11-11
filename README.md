@@ -9,7 +9,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em f
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Front-End** | JavaScript, React, React Native, HTML5, CSS3 |
-| **Back-End** | Java, Lógica de Programação |
+| **Back-End** | Java,Node.JS,Lógica de Programação |
 | **Banco de Dados** | SQL, MySQL, Oracle |
 | **Ferramentas** | Git, GitHub, VS Code, Figma, Metodologias Ágeis |
 
